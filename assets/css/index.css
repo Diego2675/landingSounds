@@ -391,4 +391,9 @@ nav div.container3 button:hover {
         flex-direction: column;
     }
 
+    .footer-row {
+        display: flex;
+        justify-content: space-evenly;
+
+    }
 }
