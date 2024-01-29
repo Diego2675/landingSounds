@@ -373,3 +373,11 @@ nav div.container3 button:hover {
 .social-links a:hover {
     background-color: var(--primary-light);
 }
+
+/* cambios para cuando las pantalla sea ≤ 576*/
+@media (max-width: 576px) {
+    .contenedor {
+        display: flex;
+        flex-direction: column;
+    }
+}
