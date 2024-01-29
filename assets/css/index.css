@@ -21,7 +21,7 @@
 }
 
 .navbar {
-    background-color: white !important;
+    background-color: var(--secondary-main) !important;
 }
 
 .nav-logo {
@@ -50,7 +50,7 @@
 }
 
 .navbar-nav .nav-link:hover {
-    color: var(--secondary-main) !important;
+    color: var(--primary-main) !important;
 }
 
 .nav-link {
@@ -423,3 +423,4 @@ nav div.container3 button:hover {
         
     }
 }
+
