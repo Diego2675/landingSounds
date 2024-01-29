@@ -385,4 +385,10 @@ nav div.container3 button:hover {
         display: flex;
         flex-direction: column-reverse;
     }
+
+    .titulo2 {
+        display: flex;
+        flex-direction: column;
+    }
+
 }
